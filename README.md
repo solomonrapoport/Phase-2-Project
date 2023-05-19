@@ -1,4 +1,4 @@
-# Phase 2 Project - Capitalizing On Real Estate in Kings County
+# Phase 2 Project - Solutions to Maximize Real Estate in Kings County
 Author: Solomon Rapoport
 
 # Overview
