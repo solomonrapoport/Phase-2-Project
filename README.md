@@ -11,7 +11,7 @@ Real estate agencies in King County, Washington, might be able to provide better
 The King County dataset is comprised of a list of over 30,000 homes in King County purchased between 2021 and 2022, and includes information on each home such as year built (some homes as early as 1900, some as recent as 2022), location, price paid, and various other specifications (number of floors, bedrooms, and bathrooms, square footage, year last renovated, etc.).
 
 # Methods
-
+This project uses linear regression and data visualizations find trends among variables as well as over time, in order to identify and provide recommendations and solutions to real estate agencies in King County.
 # Results
 
 # Conclusions
