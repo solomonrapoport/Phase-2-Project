@@ -15,5 +15,8 @@ This project uses linear regression and data visualizations find trends among va
 # Results
 
 # Conclusions
+This analysis leads to three recommendations for improving the business of our real estate agency in Kansas City:
+
+-**Stress to clients the strong correlation between waterfront properties and price**. One model that was run showed that a waterfront home is correlated with an increase of $1,145,000 in value versus a home that is not waterfront! Compared  with the mean of the average home price in the dataset, the price of a waterfront home is about 1.755 standard deviations higher. In a normally distributed dataset, that would align with the top 5% of home prices.
 
 # Next Steps
