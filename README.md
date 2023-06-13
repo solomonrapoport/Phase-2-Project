@@ -14,9 +14,12 @@ The King County dataset is comprised of a list of over 30,000 homes in King Coun
 This project uses linear regression and data visualizations find trends among variables as well as over time, in order to identify and provide recommendations and solutions to real estate developers in King County.
 # Results
 
+-**There is a strong correlation between waterfront properties and price.** One model that was run showed that a waterfront home is correlated with an increase of $1,136,000 in value versus a home that is not waterfront! Compared  with the mean of the average home price in the dataset, the price of a waterfront home is about 1.755 standard deviations higher. In a normally distributed dataset, that would align with the top 5% of home prices.
+-**Living space has a much bigger impact on home price than other property space.** One model showed that the coefficient for square foot living space was over three times as high as the coefficient for square foot space as a whole. This means that the each square foot of living space is correlated with a much higher increase in property value!
+
 # Conclusions
 This analysis leads to three recommendations for improving the business of our real estate debvelopment company in Kansas City:
 
--**There is a strong correlation between waterfront properties and price**. One model that was run showed that a waterfront home is correlated with an increase of $1,136,000 in value versus a home that is not waterfront! Compared  with the mean of the average home price in the dataset, the price of a waterfront home is about 1.755 standard deviations higher. In a normally distributed dataset, that would align with the top 5% of home prices.
+
 
 # Next Steps
