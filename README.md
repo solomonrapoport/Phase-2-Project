@@ -1,3 +1,5 @@
+![develop](https://github.com/solomonrapoport/Phase-2-Project/assets/112587683/0d669730-8992-4e8e-ae33-88ffe512e421)
+
 # Phase 2 Project - Solutions to Maximize Real Estate in Kings County
 Author: Solomon Rapoport
 
