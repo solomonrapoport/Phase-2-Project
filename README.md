@@ -18,9 +18,28 @@ This project uses linear regression and data visualizations find trends among va
 
 -**Living space has a much bigger impact on home price than other property space.** One model showed that the coefficient for square foot living space was over three times as high as the coefficient for square foot space as a whole. This means that the each square foot of living space is correlated with a much higher increase in property value!
 
+-**Analysis seems to indicate the clear impact a view (or more specifically, the lack thereof) has on the sale price of a home.**
+The jump from no view to an average view alone comes with an average price difference of +$433,386, a massive %42.5 increase!
+Homes with an “excellent” view are sold at an average of %200 more than homes with no view (nearly $2 million more!)
+
+
 # Conclusions
 This analysis leads to three recommendations for improving the business of our real estate debvelopment company in Kansas City:
 
+1. **House with a view, any view:** Merely the presence of any sort of view is correlated with a massive price increase in average sale price compared with homes that have no view. Develop properties with favorable views (be it property  location, window placement, etc.
+2. **Square feet of living space is paramount.** Our models showed that square feet of living space is correlated with a higher price per square foot than any other part of the property. So in development, skip the patios, big garage, large basement, etc.
+3. **Waterfront properties are a gold mine.** The basic data, confirmed by one of the models produced, show that the average home price that is a ‘waterfront property’ is over $1.5 million more than homes with no waterfront! Prioritizing the development of waterfront properties could bump up sale price significantly.
 
 
 # Next Steps
+
+## What further types of data could we use to provide better business suggestions to our real estate development company?
+-Development costs: Of course, it would be great for sale price to develop properties with waterfronts, nice views, and big living spaces, but what are the costs in King County of such properties/modifications? At what point do the costs outweigh the added revenue?
+-Data which breaks down average property prices per neighborhood/town
+-Other independent variables, which may or may not impact price, but would be interesting to take a look at, such as:
+  -Exterior paint color/design
+  -Presence of home amenities/luxuries (e.g. pool, gym, sports court)
+  -Local crime rates
+  -Distance from commercial hubs (e.g. Seattle)
+  -Property taxes
+
