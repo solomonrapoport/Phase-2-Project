@@ -1,7 +1,7 @@
 ![300px-Map_of_Washington_highlighting_King_County svg](https://github.com/solomonrapoport/Phase-2-Project/assets/112587683/4bdcb90f-1fc6-4374-ac9e-e31b3a85b693)
 
 
-# Phase 2 Project - Solutions to Maximize Real Estate in Kings County
+# Phase 2 Project - Solutions to Maximize Real Estate in King County, Washington
 Author: Solomon Rapoport
 
 # Overview
