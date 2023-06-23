@@ -53,3 +53,8 @@ This analysis leads to three recommendations for improving the business of our r
   -Distance from commercial hubs (e.g. Seattle)
   -Property taxes
 
+# For More Information
+
+See the full analysis in the Jupyter Notebook to review this presentation
+
+For additional information, contact Solomon Rapoport at solomonrapoport@gmail.com
