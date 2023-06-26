@@ -45,12 +45,19 @@ This analysis leads to three recommendations for improving the business of our r
 
 ## What further types of data could we use to provide better business suggestions to our real estate development company?
 -Development costs: Of course, it would be great for sale price to develop properties with waterfronts, nice views, and big living spaces, but what are the costs in King County of such properties/modifications? At what point do the costs outweigh the added revenue?
+
 -Data which breaks down average property prices per neighborhood/town
+
 -Other independent variables, which may or may not impact price, but would be interesting to take a look at, such as:
+
   -Exterior paint color/design
+  
   -Presence of home amenities/luxuries (e.g. pool, gym, sports court)
+  
   -Local crime rates
+  
   -Distance from commercial hubs (e.g. Seattle)
+  
   -Property taxes
 
 # For More Information
