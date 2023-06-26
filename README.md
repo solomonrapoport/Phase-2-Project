@@ -62,6 +62,6 @@ This analysis leads to three recommendations for improving the business of our r
 
 # For More Information
 
-See the full analysis in the [Jupyter Notebook](https://github.com/solomonrapoport/Phase-2-Project/blob/59854823a47b2107bba1dbcc4aeb985c04f74e23/Solomon%20Rapoport%20-%20Phase%202%20presentation%20notebook.ipynb) to review this presentation
+See the full analysis in the [Jupyter Notebook](https://github.com/solomonrapoport/Phase-2-Project/blob/59854823a47b2107bba1dbcc4aeb985c04f74e23/Solomon%20Rapoport%20-%20Phase%202%20presentation%20notebook.ipynb) to review this [presentation](https://github.com/solomonrapoport/Phase-2-Project/blob/0707bda1fe7e93df18f21611930f9206f416a69f/Phase%202%20Presentation%20-%20Solomon%20Rapoport%20-%20King%20County%20Real%20Estate.pdf)
 
 For additional information, contact Solomon Rapoport at solomonrapoport@gmail.com
