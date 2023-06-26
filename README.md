@@ -51,14 +51,14 @@ This analysis leads to three recommendations for improving the business of our r
 -Other independent variables, which may or may not impact price, but would be interesting to take a look at, such as:
 
 + Exterior paint color/design
+
++ Presence of home amenities/luxuries (e.g. pool, gym, sports court)
   
-  --Presence of home amenities/luxuries (e.g. pool, gym, sports court)
++ Local crime rates
   
-  --Local crime rates
++ Distance from commercial hubs (e.g. Seattle)
   
-  --Distance from commercial hubs (e.g. Seattle)
-  
-  --Property taxes
++ Property taxes
 
 # For More Information
 
